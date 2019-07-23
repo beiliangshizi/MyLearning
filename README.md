@@ -15,6 +15,7 @@
 	+ **[learning-resource](https://github.com/porcelainHeart/learning-resource)**：程序员优质学习资源集合；
 	+ **[TimLiu-Python](https://github.com/Tim9Liu9/TimLiu-Python)**：python资源集合与开源硬件；
 	+ **[python_code](https://github.com/yorickshan/python_code)**：常用python代码示例；
+	+ **[CPython-Internals](https://github.com/zpoint/CPython-Internals)**:CPython 源码阅读笔记, 多图展示底层实现细节;
 
 - 工具
 	+ **[git-tips](https://github.com/521xueweihan/git-tips)**：Git的奇技淫巧，常用命令集合；
