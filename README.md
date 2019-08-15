@@ -13,13 +13,15 @@
 - **资料**
 	+ **[be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)**：成为专业程序员路上用到的各种[优秀资料、神器及框架](http://tools.stanzhai.site)；
 	+ **[studyFiles](https://github.com/threerocks/studyFiles)**：一些经典且高质量的电子书分享；
+	+ **[free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)**：免费的计算机编程类中文书籍；
 	+ **[learning-resource](https://github.com/porcelainHeart/learning-resource)**：程序员优质学习资源集合；
 	+ **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)**：A collection of (mostly) technical things every software developer should know；
 	+ **[Qix](https://github.com/ty4z2008/Qix)**：机器学习、深度学习、PostgreSQL、分布式系统、Nodejs、golang；
 - **优秀项目**
 	+ **[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)**：优秀开源项目收集分类整理；
 	+ **[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)**：有趣的入门级开源项目；
-
+	+ **[weekly](https://github.com/ruanyf/weekly)**：科技爱好者周刊，每周五发布；
+	+ **[favorite-link](https://github.com/guanguans/favorite-link)**：每日收集喜欢的[开源项目](https://www.guanguans.cn/favorite-link/)；
 - **工具**
 	+ **[git-tips](https://github.com/521xueweihan/git-tips)**：Git的奇技淫巧，常用命令集合；
 	+ **[git-recipes](https://github.com/geeeeeeeeek/git-recipes)**：高质量的Git中文教程；
@@ -43,6 +45,7 @@
 	+ **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)**：阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总；
 	+ **[ZXBlog](https://github.com/ZXZxin/ZXBlog)**：记录各种学习笔记(算法、Java、数据库、并发......)；
 	+ **[fe-interview](https://github.com/haizlin/fe-interview)**：前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题；
+	+ **[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)**：后台技术栈/架构师之路/[全栈开发社区](https://frank-lam.github.io/fullstack-tutorial/)，春招/秋招/校招/面试 ；
 
 ----------
 
@@ -94,12 +97,17 @@
 
 
 -  **机器学习和深度学习**
+
+
 	+ 资料 & 教程
 		-  **[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)**：吴恩达老师的机器学习课程个人笔记；
 		- **[pydata-book](https://github.com/wesm/pydata-book)**：Python数据分析第二版；
 		- **[Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)**：三个月学习机器学习；
 		- **[AiLearning](https://github.com/apachecn/AiLearning)**：[AiLearning](http://ailearning.apachecn.org/)：机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP；
 		-  **[practicalAI](https://github.com/GokuMohandas/practicalAI)**：一种实用的机器学习方法；
+		-  **[awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)**：精选的开源库列表，用于部署，监控，版本和扩展您的机器学习；
+
+
 	+ 工具 & 库
 		- **[python-recsys](https://github.com/ocelma/python-recsys)**：用于实现推荐系统的python库；
 		- **[scikit-tensor](https://github.com/mnick/scikit-tensor)**：用于多线性代数和张量因子分解的Python库；
