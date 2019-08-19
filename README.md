@@ -67,6 +67,9 @@
 
 
 - **后端**
+	+ 正则表达式
+		- **[learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)**：学习正则表达式；
+		- **[正则表达式及多语言操作指南](https://segmentfault.com/a/1190000016142217#articleHeader24)**；
 	+ Python
 		- **[awesome-python-cn](https://github.com/jobbole/awesome-python-cn)**：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新；
 		- **[one-python-craftsman](https://github.com/piglei/one-python-craftsman)**：一位Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面；
@@ -81,6 +84,7 @@
 		- **[the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)**：《The Way to Go》中文译本，中文正式名《Go 入门指南》
 		- **[golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn)**：Go 开发者路线图；
 		- **[awesome-go-cn](https://github.com/jobbole/awesome-go-cn)**：Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等；
+		- **[learn-go-with-tests](https://github.com/quii/learn-go-with-tests)**：实战学习Go；
 	+ Java
 		-  **[awesome-java-cn](https://github.com/jobbole/awesome-java-cn)**：Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新；
 		-  **[JavaGuide](https://github.com/Snailclimb/JavaGuide)**：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识；
