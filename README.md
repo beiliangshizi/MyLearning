@@ -122,5 +122,6 @@
 
 	+ 实战
 		-  **[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)**：A collection of machine learning examples and tutorials；
+		-  **[flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo)**：基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
 
 
