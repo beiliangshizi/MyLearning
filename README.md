@@ -25,6 +25,7 @@
 - **工具**
 	+ **[git-tips](https://github.com/521xueweihan/git-tips)**：Git的奇技淫巧，常用命令集合；
 	+ **[git-recipes](https://github.com/geeeeeeeeek/git-recipes)**：高质量的Git中文教程；
+	+ **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**：自托管：
 
 
 - **awesome & 技术架构**
