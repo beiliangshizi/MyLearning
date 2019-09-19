@@ -22,6 +22,7 @@
 	+ **[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)**：有趣的入门级开源项目；
 	+ **[weekly](https://github.com/ruanyf/weekly)**：科技爱好者周刊，每周五发布；
 	+ **[favorite-link](https://github.com/guanguans/favorite-link)**：每日收集喜欢的[开源项目](https://www.guanguans.cn/favorite-link/)；
+	+ **[public-apis](https://github.com/public-apis/public-apis)**：[A collective list](https://ultimatecourses.com) of free APIs for use in software and web development；
 - **工具**
 	+ **[git-tips](https://github.com/521xueweihan/git-tips)**：Git的奇技淫巧，常用命令集合；
 	+ **[git-recipes](https://github.com/geeeeeeeeek/git-recipes)**：高质量的Git中文教程；
@@ -89,6 +90,7 @@
 	+ Java
 		-  **[awesome-java-cn](https://github.com/jobbole/awesome-java-cn)**：Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新；
 		-  **[JavaGuide](https://github.com/Snailclimb/JavaGuide)**：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识；
+		-  **[advanced-java](https://github.com/doocs/advanced-java)**：互联网 Java 工程师[进阶知识完全扫盲](https://doocs.github.io/advanced-java)：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习；
 	+ C++
 		- **[awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)**：C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等；
 	+ Shell
@@ -111,6 +113,7 @@
 		- **[AiLearning](https://github.com/apachecn/AiLearning)**：[AiLearning](http://ailearning.apachecn.org/)：机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP；
 		-  **[practicalAI](https://github.com/GokuMohandas/practicalAI)**：一种实用的机器学习方法；
 		-  **[awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)**：精选的开源库列表，用于部署，监控，版本和扩展您的机器学习；
+		- **[ d2l-zh](https://github.com/d2l-ai/d2l-zh)**：[《动手学深度学习》](http://zh.d2l.ai)：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材；
 
 
 	+ 工具 & 库
